@@ -14,4 +14,4 @@ You can ask any query about bot at [@DevelopedBotz](https://telegram.dog/Develop
 
 # Credits :- 
 
-Credits goes to me - [@kunaldiwan](https://telegram.dog/kunaldiwan) .
+[@PaulSonOfLars](http://github.com/PaulSonOfLars/tgbot) - For his Marie Bot
